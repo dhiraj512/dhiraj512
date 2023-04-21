@@ -2,8 +2,6 @@
 
 ## Web Developer
 
-I've been learning coding since I went to high school in 2019. I started with Java but now I move to web programming.
-
 -   🖥️  See my portfolio at [Portfolio](http://dhirajp.vercel.app)
 -   🧠  I'm learning Astro, Svelte, Arduino
 
