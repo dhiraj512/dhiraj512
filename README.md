@@ -3,7 +3,7 @@
 ## Web Developer
 
 -   🖥️  See my portfolio at [Portfolio](http://dhirajp.vercel.app)
--   🧠  I'm learning Astro, Svelte, Arduino
+
 
 ### Skills
 
