@@ -26,11 +26,6 @@
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-### Socials
-  <p align="left">
-   <a href="https://www.dev.to/dhiraj512" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" style="color:gray" /></a>
-   <a href="https://www.github.com/dhiraj512" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"  style="color:gray" /></a>
-  <a href="https://www.twitter.com/dhiraj_512" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="color:gray" /></a></p>
 
 #### My GitHub Stats
 <a href="http://www.github.com/dhiraj512"><img src="https://github-readme-stats.vercel.app/api?username=dhiraj512&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dhiraj512's GitHub stats" /></a>
